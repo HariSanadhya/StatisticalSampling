@@ -1,7 +1,7 @@
 # StatisticalSampling
 Assignments submitted for statistical sampling class.
 
-5 Theoritical homework exercises and 7 lab exercises using SAS. Also includes a sampling project along with theoritical midterm and final exam. 
+5 Theoritical homework exercises and 7 lab exercises using SAS. Also includes a sampling project along with theoritical midterm and final exam. All lab exercises and project includes SAS code in the document
 
 ### Project
 **Feedback** - 
